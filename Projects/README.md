@@ -1,1 +1,1 @@
-#Data visualization, buisness, data cleaning, internet, categorical data
+# Data visualization, buisness, data cleaning, internet, categorical data
